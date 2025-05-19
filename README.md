@@ -1,1 +1,1 @@
-php and laravel developer
+Back-end Developer | PHP (Laravel) & Node.js
